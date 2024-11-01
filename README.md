@@ -1,0 +1,1 @@
+This project was created for educational purposes to learn how node works behind the scenes.
